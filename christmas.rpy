@@ -120,3 +120,16 @@ label monika_whatiwant
     m 3b "Don't worry about getting me a present."
     m 3a "After all, I have you. And that's all I want."
     m 1k "I love you with all my heart, [player]."
+    
+label monika_sledding
+    m "You know what I would love to do with you?"
+    m "Sledding."
+    m "I know you might think that sort of thing is only for kids."
+    m "But I think it could be a grand time for two lovebirds."
+    m "We could try an inner tube, a kicksled, a saucer, or even the traditional toboggan."
+    m "I'd love to try them all myself."
+    m "The kicksled sure looks funny though."
+    m "Ahaha!"
+    m "I'd have to sit in your lap for that one."
+    m "I know you'll hold me tight, love."
+    m "That would be the best part."
