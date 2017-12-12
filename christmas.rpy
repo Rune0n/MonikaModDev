@@ -120,3 +120,15 @@ label monika_whatiwant
     m 3b "Don't worry about getting me a present."
     m 3a "After all, I have you. And that's all I want."
     m 1k "I love you with all my heart, [player]."
+    
+label monika_hypothermia
+    m 1o "Hey, [player].
+    m 1g "I know winter is the time to be cheery and carefree."
+    m "But there's something I need to make sure you know."
+    m 2f "Bundle up, okay?"
+    m 3d "The expansive white fields that dawn the earth this time of year may look inviting..."
+    m 3f "But they can be deadly just as well."
+    m 1p "I'd cry my eyes out if I learned you'd been rushed to the ER with a case of hypothermia."
+    m 4d "So put on that coat, those gloves, and the softest hat you can find, and be safe."
+    m 3a "Your well being means more to me than you know."
+    m 3j "Okay, snowflake?"
