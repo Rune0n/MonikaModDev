@@ -90,7 +90,7 @@ label monika_snowman
     m 1j "Just imagine it!"
     m 5a "I'd be a happy, little snow lady."
     m "What about you, sweetie?"
-    m "What if you were a hunky snowman?"
+    m "What if you were my icy snowhunk?"
     menu:
         "I'd watch time and scenery pass by."
             m 1k "You feel the same way too!"
