@@ -122,7 +122,7 @@ label monika_whatiwant
     m 1k "I love you with all my heart, [player]."
     
 label monika_hypothermia
-    m 1o "Hey, [player].
+    m 1o "Hey, [player]."
     m 1g "I know winter is the time to be cheery and carefree."
     m "But there's something I need to make sure you know."
     m 2f "Bundle up, okay?"
