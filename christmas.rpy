@@ -110,7 +110,15 @@ label monika_snowman
             m 3m "..."
             m 5a "Don't make me munch on your carrot!"
             m "..."
+            m 1i "That sounded cleaner in my head. I swear."
+            m 1m "......"
             m 1r "I'll stop now."
         
         "I'd freeze up!"
+            m 1k "Ahaha!"
+            m "Technically that's already done."
+            m 1n "But I see your point."
+            m 1a "Maybe being a snowman wouldn't be too great, period."
+            m 5a "A warm fire with your loved one and a steaming cup of hot chocolate is much better, no?"
+            
             
