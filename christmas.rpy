@@ -120,3 +120,15 @@ label monika_whatiwant
     m 3b "Don't worry about getting me a present."
     m 3a "After all, I have you. And that's all I want."
     m 1k "I love you with all my heart, [player]."
+
+label monika_gingerbread
+    m "You know, come the holidays it seems like egg nog and fruit cake always jump to mind."
+    m "But I'd prefer a gingerbread house."
+    m "Sure, they're hard work..."
+    m "And then you only appreciate that work for mere moments before smashing it all..."
+    m "But the creativity that people can show through baking astounds me."
+    m "It kind of reminds me of you know who."
+    m "But I bet if we put our minds to it, we could rise to the top of the gingerbread world!"
+    m "Or burn it all down in the process."
+    m "Maybe we ought to just stick with having a frosting fight, hmm?"
+    m "I'll cover you in it, and eat you up, my sugar cube!"
