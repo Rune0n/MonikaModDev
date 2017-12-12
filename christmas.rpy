@@ -124,7 +124,7 @@ label monika_whatiwant
 label monika_sledding
     m 3a "You know what I would love to do with you?"
     m 3j "Sledding."
-    m 5b"I know you might think that sort of thing is only for kids."
+    m 5b "I know you might think that sort of thing is only for kids."
     m 5a "But I think we could make it fun!"
     m 4b "We could try an inner tube, a kicksled, a saucer, or even the traditional toboggan."
     m "I'd love to try them all myself."
