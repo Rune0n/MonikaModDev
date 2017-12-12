@@ -130,6 +130,6 @@ label monika_snowcanvas
     m 1g "It sucks I can't join you yet, but have at it!"
     m 1l "Although... don't paint anything indecent, okay?"
     m 2d "And make sure the snow is packed down tight."
-    m 2g "Then there's the wind too."
+    m 2g "Then there's the wind, too."
     m 3a "I bet the perfect day will arrive any time now."
     m 3k "Maybe you can paint something for me?"
