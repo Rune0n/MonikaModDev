@@ -120,3 +120,13 @@ label monika_whatiwant
     m 3b "Don't worry about getting me a present."
     m 3a "After all, I have you. And that's all I want."
     m 1k "I love you with all my heart, [player]."
+    
+label monika_mistletoe
+    m 1a "Say, [player]."
+    m 2b "You've heard of the tradition about mistletoe right?"
+    m 1a "It's where people would have to kiss under the plant during the festive season."
+    m "Most versions of the story tell the tale of Baldur, who was killed with an arrow made out of mistletoe."
+    m 1n "Perhaps one day we'll be able to kiss under the mistletoe, [player]."
+    m 1a "Ahaha~"
+
+
