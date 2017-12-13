@@ -134,4 +134,4 @@ label monika_sleigh
     m "I can't contain myself. I'd cry tears of joy!"
     m 5b "We need to do this."
     m 5a "Wait for me, okay?"
-    m "I want us both to experience a carriage ride together for the first time~"
+    m "I want us both to experience a carriage ride for the first time... together~"
