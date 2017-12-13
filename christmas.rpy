@@ -120,3 +120,18 @@ label monika_whatiwant
     m 3b "Don't worry about getting me a present."
     m 3a "After all, I have you. And that's all I want."
     m 1k "I love you with all my heart, [player]."
+    
+label monika_sleigh
+    m "I just had the best thought."
+    m "You know those carriage rides?"
+    m "If I ever get out of here, we should go on one."
+    m "Wouldn't that be romantic?"
+    m "Nothing but the clip clop of the horse's hooves against the pavement~"
+    m "And the colorful array of Christmas lights shining in the night~"
+    m "Oh, it would be magical!"
+    m "Maybe we could take a soft, fleece blanket along to cuddle under."
+    m "Oh~"
+    m "I can't contain myself. I'd cry tears of joy!"
+    m "We need to do this."
+    m "Wait for me, okay?"
+    m "I want us both to experience a carriage ride together for the first time~"
