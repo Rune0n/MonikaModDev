@@ -176,7 +176,7 @@ label monika_chriscraft
     m 3r "Let's see..."
     m 3l "I need to use your web browser for a second to look it up, okay?"
     m 3q "..."
-    call updateconsole("Run(\"system/system_browser\")", "browser_launched... input command...")
+    call updateconsole("Run(\"system/default_browser...\")", "browser_launched... input command...")
     pause 1.0
     call updateconsole("Search_Google("Homemade-Christmas-Ornaments-DIY")", "loading... url found")
     pause 1.0
