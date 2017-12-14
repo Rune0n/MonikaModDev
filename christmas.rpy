@@ -167,3 +167,43 @@ label monika_sledding
     m 1g "And I'd still be at risk of tumbling off."
     m 1b "But I know you wouldn't let that happen. You'd hold me tight, right~?"
     m 1j "That would probably be the best part."
+    
+label monika_chriscraft
+    m 2a "You know what would make a special, little moment?"
+    m 1k "Making our own Christmas ornaments for each other!"
+    m 2e "A special memory, wrapped in such a small package."
+    m 3k "And it isn't hard to do, either!"
+    m 3r "Let's see..."
+    m 3l "I need to use your web browser for a second to look it up, okay?"
+    m 3q "..."
+    call updateconsole("Run(\"system/system_browser\")", "browser_launched... input command...")
+    pause 1.0
+    call updateconsole("Search_Google("Homemade-Christmas-Ornaments-DIY")", "loading... url found")
+    pause 1.0
+    m 3q "Hmm..."
+    call hideconsole
+    $ consolehistory = []
+    m 4b "Okay!"
+    m 4i "We'd need clear ornaments, crayons, a craft knife, and a hair dryer."
+    m 3q "Then just peel off the labels and break up the crayons."
+    m 3p "Break them up? Well I suppose if you aren't using them..."
+    m 4b "Okay, so put those inside the ornament, right?"
+    m 3b "Then with a bit of heat from a hair dryer, you'll melt the pieces and create a splash of color!"
+    m 4a "Neat, huh?"
+    m 3k "Okay, let's get started then. This'll be fun!"
+    m 3q "..."
+    call updateconsole("create.object(\"Monika/ornament.ren\")", "ERROR: ÁðƨƯƋŴǐɮɃȺ˥ʩʯ.")
+    pause 1.0
+    call updateconsole("create.object(\"Monika/crayons.ren\")", "ERROR: ɓɁɂɂϟϗЧлхфƻƸǠȭ.")
+    pause 1.0
+    m 1p "..."
+    call updateconsole("create.object(\"Monika/hairdryer.ren\")", "ERROR: ǢǵǽǾȒȓșȘƴēĺŐŒŔÇÆÃÑæ.")
+    pause 1.0
+    m 1r "I guess I just can't make things yet."
+    call hideconsole
+    $ consolehistory = []
+    m 1f "Well it was worht a shot, wasn't it?"
+    m "Doesn't hurt to try."
+    m 3a "I'll get it eventually."
+    m 4b "But that doesn't mean you can't try it, love."
+    m "I bet you'll make something great for us!"
