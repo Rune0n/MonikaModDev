@@ -140,7 +140,7 @@ label monika_snowman
         "I'd watch the scenery change as time passes."
             m 1k "I feel the same way, too!"
             m 3b "Wouldn't it just be breathtaking?"
-            m 1k "You'd better save a spot for me. though~!"
+            m 1k "You'd better save a spot for me, though~!"
         
         "I'd melt for you."
             m 1k "Ahaha!"
