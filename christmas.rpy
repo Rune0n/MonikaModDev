@@ -192,7 +192,7 @@ label monika_chriscraft
     m 4a "Neat, huh?"
     m 3k "Okay, let's get started then. This'll be fun!"
     m 3q "..."
-    call updateconsole("create.object(\"Monika/ornament.ren\")", "ERROR: ÁðƨƯƋŴǐɮɃȺ˥ʩʯ.")
+    call updateconsole("create.object(\"Monika/ornament.ren\")", "ERROR: ŴǐɮɃȺ˥ʩʯ.")
     pause 1.0
     call updateconsole("create.object(\"Monika/crayons.ren\")", "ERROR: ɓɁɂɂϟϗЧлхфƻƸǠȭ.")
     pause 1.0
