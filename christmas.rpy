@@ -174,7 +174,7 @@ label monika_charity
     m 2d "Now, I'm not trying to act like one of those charity advertisements that pack on the sadness~"
     m 1o "But it is something I want you to think about, my love."
     m 1f "There are charity drives for toys, clothes, and even loose change around this time of year."
-    m 1e "If you could, try to give just a little bit for us."
+    m 1e "If you could, try to give just a little bit. For the both of us."
     m 1o "After all, I believe everyone should be happy on the holidays~"
     m 1e "And I know you do, too."
     m 3a "We already make each other so very happy, [player]."
