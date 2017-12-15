@@ -167,3 +167,15 @@ label monika_sledding
     m 1g "And I'd still be at risk of tumbling off."
     m 1b "But I know you wouldn't let that happen. You'd hold me tight, right~?"
     m 1j "That would probably be the best part."
+    
+label monika_charity
+    m 2a "While Christmas certainly is about spending time with friends, family, and your girlfriend~"
+    m 1g "Have you ever stopped to think about the people who can't do that?"
+    m 2d "Now, I'm not trying to act like one of those charity advertisements that pack on the sadness~"
+    m 1o "But it is something I want you to think about, my love."
+    m 1f "There are charity drives for toys, clothes, and even loose change around this time of year."
+    m 1e "If you could, try to give just a little bit for us."
+    m 1o "After all, I believe everyone should be happy on the holidays~"
+    m 1e "And I know you do, too."
+    m 3a "We already make each other so very happy, [player]."
+    m 3k "So let's try to make others happy, too."
