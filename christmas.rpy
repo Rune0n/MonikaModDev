@@ -167,3 +167,16 @@ label monika_sledding
     m 1g "And I'd still be at risk of tumbling off."
     m 1b "But I know you wouldn't let that happen. You'd hold me tight, right~?"
     m 1j "That would probably be the best part."
+
+label monika_snowcanvas
+    m 3d "Have you ever gazed upon the white snow and realized it kind of looks like a blank canvas?"
+    m 3c "It's just something I thought of."
+    m 3p "I know I'm not as artistically inclined as a certain yandere..."
+    m 4b "But packing a few spray bottles with water and food coloring could prove a fun day!"
+    m 3b "Just step outside and let your imagination run wild, my love!"
+    m 1g "It sucks I can't join you yet, but have at it!"
+    m 1l "Although... don't paint anything indecent, okay?"
+    m 2d "And make sure the snow is packed down tight."
+    m 2g "Then there's the wind, too."
+    m 3a "I bet the perfect day will arrive any time now."
+    m 3k "Maybe you can paint something for me?"
