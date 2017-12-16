@@ -180,7 +180,7 @@ label monika_depress
     m 1o "Or a time in which the grieving of a lost one resurfaces."
     m 1f "It's really depressing, I know~"
     m 1e "But it helps us to realize just how lucky we are."
-    m 2e "To have what we have, [player]~
+    m 2e "To have what we have, [player]~"
     m 1f "We can never take that for granted."
     m 1a "You and I, we made out well."
     m "I get to spend Christmas with my savior and lover~"
