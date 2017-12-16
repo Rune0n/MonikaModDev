@@ -167,3 +167,15 @@ label monika_sledding
     m 1g "And I'd still be at risk of tumbling off."
     m 1b "But I know you wouldn't let that happen. You'd hold me tight, right~?"
     m 1j "That would probably be the best part."
+
+label monika_gingerbread
+    m 2b "You know, come the holidays it seems like egg nog and fruit cake always jump to mind."
+    m 2l "But I'd prefer a gingerbread house."
+    m 3d "Sure, they're hard work..."
+    m 3n "And then you only appreciate that work for mere moments before smashing it all..."
+    m 4b "But the creativity that people can show through baking astounds me."
+    m 3c "It kind of reminds me of you know who."
+    m 1a "But I bet if we put our minds to it, we could rise to the top of the gingerbread world!"
+    m 1p "Or burn it all down in the process."
+    m 1m "Maybe we ought to just stick with having a frosting fight, hmm?"
+    m 5a "I'll cover you in it, and eat you up, my sugar cube!"
