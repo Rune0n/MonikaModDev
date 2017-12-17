@@ -195,3 +195,24 @@ label monika_mistletoe
     m 1j "Ehehe~"
     m 1d "But seriously, don't go outside if it gets too bad."
     m 1a "Please stay safe, [player]."
+
+label monika_carolling
+    m 2a "Hey, [player]..."
+    m 1b "Ever went carolling before?"
+    m 1a "Something about going door to door in groups singing to others..."
+    m 1k "it just feels heartharming to spread some joy in the cold wintery nights!"
+    m 2b "Do you like singing christmas carols, [player]?'
+        menu:
+        "I love it!"
+            m 1b "I'm glad you feel the same way, [player]!"
+            m 1a "What are some of your favorite songs?"
+            m 2a "Mine is definitely 'Jingle Bells'!"
+            m 1k "It just has such an upbeat air of exicitement!"
+            m 5a "Perhaps you could play your favorite, and we'll sing together sometime!"
+            m 1j "Ehehe~"
+        "No."
+            m 1d "Oh?"
+            m 1c "I see..."
+            m 2a "Regardless, you can't deny that christmas songs definitely have a special type of cheer to them!"
+            m 5a "Sing with me sometime, okay?"
+            
