@@ -195,3 +195,28 @@ label monika_mistletoe
     m 1j "Ehehe~"
     m 1d "But seriously, don't go outside if it gets too bad."
     m 1a "Please stay safe, [player]."
+
+#Perhaps for the next year, she should be able to spin one for you.
+#But for the moment she'll just explain it.
+#I'm not a programmer after all. ~ Aya
+
+init 5 python:
+    for key in ['drediel','gelt','nes gadol hayah sham','nes gadol hayah poh']:
+        monika_topics.setdefault(key,[])
+        monika_topics[key].append('monika_drediel')
+    monika_random_topics.append('monika_drediel')
+
+label monika_drediel
+	m 1a "[player], did you know that each side of a drediel actually means something?"
+	m 4a "Nun, Gimel, Hel, Shim. Each of these stands for ..."
+	m "Nes Gadol Hayah Sham - A Great Miracle Happened There."
+	m "Referring to the Hanukkah story of how one day's worth of oil lasted for eight days."
+	m "Over in Israel though, they change the last word to 'poh' making it 'A Great Miracle Happened Here.'"
+	m 1j "Maybe by the next year, I may be equipped to actually play with you~"
+	m 1k "I don't have one here~ aha~"
+		# I don't know how to exactly create programming to 'randomly' spin one. 
+		# Maybe next year! Perhaps as a hidden minigame. This is a placeholder
+        	# comment to deal with this at a later point. ~ Aya
+	m 1a "But for now [player], do you have any gelt?"
+	m "The chocolate coin variety tastes really good."
+	m "Though money is always good too, ehe~"
